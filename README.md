@@ -1,2 +1,2 @@
-# CODSOFT Task 1
+# CODSOFT Task 2
 new repo
